@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block body %}
+
+  <h1>Metni Çıkarmak İçin Resim Yükle</h1>
+  <form method="POST" action="/" enctype="multipart/form-data">
+    <input type="file" name="image_file" accept="image/*" required>
+    <button type="submit">Yükle</button>
+  </form>
+
+  {% if extracted_text %}
+    <h2>Çıkarılan Metin:</h2>
+    <p>{{ extracted_text }}</p>
+  {% endif %}
+{% endblock %}
+
+
+
+
+

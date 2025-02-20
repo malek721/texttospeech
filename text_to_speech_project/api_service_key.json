@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "leafy-tenure-441216-g7",
+  "private_key_id": "62f46c6ac263d439fc84fdf806f802d50fd92879",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClgqqv+8YjO0Jo\n/u4DP4nqoiZXlL4Mn28mNBZblJUWpebl3WFXpXt/qksj775CKLvi2bUNhLvKl+bO\nVAGvd3BGKCL3Nq05dvp+Qezxl1c1Ic9+opn6Qo10LU3s37ssesWZ8TC8ZxmBP7Np\nTa+4PxEnuneKpPUlpig53/XxB4pzj6R1/dXmx3xUd6th1mpC31CrY45jE9o/Ftu2\nxYKIbmn5rTIojrMJ2/Uw0WYWkEZNQy6y4lv2fWtHfPfNmfJx4ngQC28S0g8jE5M0\nX6toJNOm9rL+Ikn+iorLf2ppQs7OWUuFgpDzFzq2V9OEGSLAbDgcbH5ohb4DS9zV\nKkn+TcafAgMBAAECggEALWLZEpwst9GSwv8RXrOoSr6/W+nuecCotqW28dMbVRQW\nbrdX77Rx2s7kfwzJtBO+fhUsOHJLGuGvyamwsqDCmYJ9ICSOuQDe7QuAAbn6EJhe\ncX/+UGm6p36a7Vdm2Oor0KyarDdrf41r0fcbNh+ZQTc5e7wDe5kGU+SN6VQji8+J\nqB2mTUEJUec9T4VO5Nl4dVM5yIGAXrZ0KNvSJdbbeGIEtyZ2/zCfOp2cT9xBMdNa\nOSyV2uYJ6IjPcn5M1eDwVRyCvkXMwfDUAlWmyEmIxQUl/2j1hzTNFW47Jc2DLj44\nwgUZIJLud0EE6JQ8P1d1RnQOiuXYwWo66zih/rojUQKBgQDQAiXwrkLmO+no3rgy\n0z3jYi/y41GYHPo9bEiPYUK+7Vf1cnAFB80hNreaReVazvcPxtx39DV4VxBwr+nt\ndklLajIS+R4UBI+JYVUUS0UEgS+zFpTJMZvuR/BXjKLz3m3+QQTWEEKdY+Ztcqzy\nqMIT+Iy4Jx8nvJEpYVoIH/MY7wKBgQDLsmi+nJb7fbgkYJDNgKXcGVYmQuE09f25\nJSGl2CXJq8gyvqoFIHuqmYCJomDYpXhFkyU8YjxBu6wjWwAtYOHFGEBHxOHFNNfe\nnh6nAsX35NuiB9T/oGQemdyZid/OsK5Mbke9f12T1umYBBZjDVHqG7FhFveVGOzo\nuK+u/E1NUQKBgQCpWaZkDqx+4DavlmznTF7tuqoJGRP8QVNnILruqSP7aCcduV8E\naXaT3QWcf92ckjZJzQEAVH4YDOJgrIhLAevoj3xXQCVB7Pijw+/Nxv5ZDYi1SOQ3\n7cDjPgSqcuDUpbptr6ftVG230HbxktTF96mTMt/2qjtOUdLpms3/IWv9VwKBgGkJ\n+A+K6iSHoORJU4JVO7Iy8oTKah2IWC0YI7DEtD+5sIPSZBQ+uuavP2Q58pzlPw8J\noOLxeUcgQtT8gSvlUKb1KXiY4x9xb3vhp8bRnEqHnmaAiWrER7yr9ODMAzgvTcIm\nACKMwjGRWmXEfdLYNIx3eVGqqUMeVlRvoFCo1CfxAoGAKGHKmp5/eecADMxi5/ou\nHbloRfUft6Kfn5keq20/yK9JrX7OjBetvRtAsiAmZ2smv65e9PHkPH09o3t7ECkk\nnTx8s0Zgo8wbL75V43+5LYuhu/iu9iWI9UDNRJZbSDaiIL/QhbMKmr5SDE8dbpqz\na9PjiP8zgeuUYqGVC81SS7E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "text-to-speech-demo@leafy-tenure-441216-g7.iam.gserviceaccount.com",
+  "client_id": "101740273357947126663",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/text-to-speech-demo%40leafy-tenure-441216-g7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
